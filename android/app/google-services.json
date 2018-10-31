@@ -1,35 +1,27 @@
 {
   "project_info": {
-    "project_number": "337338954812",
-    "firebase_url": "https://playgroundmobileapp-2b500.firebaseio.com",
-    "project_id": "playgroundmobileapp-2b500",
-    "storage_bucket": "playgroundmobileapp-2b500.appspot.com"
+    "project_number": "832825950653",
+    "firebase_url": "https://notification-demo-server.firebaseio.com",
+    "project_id": "notification-demo-server",
+    "storage_bucket": "notification-demo-server.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:337338954812:android:3f7e83f347acabb6",
+        "mobilesdk_app_id": "1:832825950653:android:3f7e83f347acabb6",
         "android_client_info": {
           "package_name": "com.codeboy.notificationdemo"
         }
       },
       "oauth_client": [
         {
-          "client_id": "337338954812-jt3uma7rfkltm9vep2bms2sokc1i8965.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.codeboy.notificationdemo",
-            "certificate_hash": "59b11567d75591b9579d80afd15151df0dd4802d"
-          }
-        },
-        {
-          "client_id": "337338954812-ij6nq7ef88p9ed99sd8egrhf9sdigiak.apps.googleusercontent.com",
+          "client_id": "832825950653-qicatt0n4227f7e7j8lbi23bofgsblam.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyA5rRj-aCLdyv2XqP259y11CeObfVkz_b8"
+          "current_key": "AIzaSyDnP7v8zYQUWJw1JPranLMkg81w-REiJMM"
         }
       ],
       "services": {
@@ -37,57 +29,8 @@
           "status": 1
         },
         "appinvite_service": {
-          "status": 2,
-          "other_platform_oauth_client": [
-            {
-              "client_id": "337338954812-i26pnkouua5hoch1tfh8eclfa5i4u575.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
-        },
-        "ads_service": {
-          "status": 2
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:337338954812:android:02c4de367d8388e6",
-        "android_client_info": {
-          "package_name": "com.codeboy.playgroundapp"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "337338954812-ds34m2daaffk7ti9kibjh5elc6tqv8vb.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.codeboy.playgroundapp",
-            "certificate_hash": "59b11567d75591b9579d80afd15151df0dd4802d"
-          }
-        },
-        {
-          "client_id": "337338954812-ij6nq7ef88p9ed99sd8egrhf9sdigiak.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyA5rRj-aCLdyv2XqP259y11CeObfVkz_b8"
-        }
-      ],
-      "services": {
-        "analytics_service": {
-          "status": 1
-        },
-        "appinvite_service": {
-          "status": 2,
-          "other_platform_oauth_client": [
-            {
-              "client_id": "337338954812-i26pnkouua5hoch1tfh8eclfa5i4u575.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
+          "status": 1,
+          "other_platform_oauth_client": []
         },
         "ads_service": {
           "status": 2

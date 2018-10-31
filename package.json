@@ -12,10 +12,12 @@
   },
   "scripts": {
     "android": "react-native run-android",
+    "android-release": "react-native run-android --variant=release",
     "ios": "react-native run-ios",
     "apk": "cd android && ./gradlew assembleRelease",
     "rename": "node ./bin/rename.js",
     "start": "react-native start",
+    "bundle-trick": "react-native bundle --platform android --dev false --entry-file index.js --bundle-output android/app/src/main/assets/index.android.bundle --assets-dest android/app/src/main/res",
     "test": "jest"
   },
   "jest": {
